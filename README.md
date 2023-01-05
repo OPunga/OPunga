@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at **ALX Holberton**
 
-- 🌱 I’m currently learning **Software engineering**
+- 🌱 I’m A  **Full -stack Software engineer**
 
 - 👯 I’m looking forward to **collaboration**
 
