@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronnyopunga" target="blank"><img src="https://img.shields.io/twitter/follow/ronnyopunga?logo=twitter&style=for-the-badge" alt="ronnyopunga" /></a> </p>
 
-- 🔭 I’m currently a student at **ALX Holberton**
+- 🔭 **Tech Nomad**
 
 - 🌱 I’m A  **Full -stack Software engineer**
 
