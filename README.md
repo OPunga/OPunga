@@ -10,7 +10,7 @@
 
 - 👯 I’m looking forward to **collaboration**
 
-- 💬 Ask me about **python,C#,R,Javascript**
+- 💬 Ask me about **python,C,Kotlin,Javascript**
 
 - ⚡ Fun fact **I love coding**
 
