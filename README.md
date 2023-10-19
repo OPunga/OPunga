@@ -8,9 +8,7 @@
 
 - 🌱 I’m A  **Full -stack Software engineer**
 
-- 👯 I’m looking forward to **collaboration**
-
-- 💬 Ask me about **python,C,Kotlin,Javascript**
+- 💬 Ask me about **python,C,Flutter,Javascript**
 
 - ⚡ Fun fact **I love coding**
 
