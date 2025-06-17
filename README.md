@@ -23,5 +23,11 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://linkedin.com/in/rony-opunga-ab5070167" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ronnyopunga" height="30" width="40" />
+  </a>
+</p>
+
 ---
 
