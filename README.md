@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rony Opunga</h1>
-<h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
+<h3 align="center">Full-stack developer</h3>
+<h3 align="center">I build systems and apps that scale</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
