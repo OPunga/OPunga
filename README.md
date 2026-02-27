@@ -12,7 +12,7 @@
 
 - 🔭 I’m a **Tech Nomad**  
 - 🌱 I’m a **Full-Stack Software Engineer**  
-- 💬 Ask me about **Flutter, Dart, Python, Django, Flask, AWS, and JavaScript**  
+- 💬 Ask me about **Flutter, Dart, Python, Django, Flask, AWS, JavaScript, Golang**  
 - ⚡ Fun fact: **I enjoy turning ideas into powerful, user-friendly apps**
 
 ---
