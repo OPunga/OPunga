@@ -37,7 +37,7 @@ I bridge the gap between complex backend logic and intuitive frontend design.
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=dart&logoColor=white" />
+   <img src="https://img.shields.io/badge/dart-%23092E20.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ---
