@@ -15,15 +15,43 @@
 
 ---
 
-### About Me
+---
 
-**Software Engineer** specializing in high-performance distributed systems and seamless mobile experiences.  
-I bridge the gap between complex backend logic and intuitive frontend design.
+## ⚡ About Me
 
-- **Current Focus:** Architecting scalable logistics systems with **Golang** and **Flutter**.
-- **Expertise:** Mobile Cross-Platform, Microservices, and Cloud Infrastructure.
-- **Ask me about:** `Dart`, `Go`, `Python`, `AWS`, and `System Design`.
-- **Philosophy:** Turning "it works" into "it scales."
+> **I am a Software Engineer dedicated to crafting high-concurrency systems and fluid user experiences.** > My expertise lies at the intersection of **performant backend architecture (Go)** and **reactive mobile design (Flutter)**. I don't just write code; I build digital products that scale with your users.
+
+- 🛠️ **What I'm doing:** Currently architecting a real-time logistics engine for **ParcelFlow**.
+- 🧠 **Design Philosophy:** Prioritizing **clean code**, **DRY principles**, and **sub-millisecond latency**.
+- 🌍 **Tech Nomad:** Operating at the edge of modern web and mobile tech to solve real-world problems.
+- 💬 **Collaboration:** Open to discussing Microservices, Cloud Infrastructure (AWS), and Fintech integrations.
+
+---
+
+## 🛠️ My Toolbox
+
+### 📱 Frontend & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### ⚙️ Backend & Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### ☁️ Infrastructure & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
