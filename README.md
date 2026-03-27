@@ -15,20 +15,24 @@
 
 ---
 
+## ⚡ Executive Summary
+
+> **Software Engineer dedicated to crafting high-concurrency systems and fluid user experiences.** > I operate at the intersection of **performant backend architecture** and **reactive mobile design**. I don't just write code; I build digital products that scale with your users.
+
+</div>
+
+### 🚀 At a Glance
+
+| Category | Details |
+| :--- | :--- |
+| **🛠️ Currently** | Architecting a real-time logistics engine for **ParcelFlow** |
+| **🧠 Philosophy** | Prioritizing **clean code**, **DRY principles**, and **sub-millisecond latency** |
+| **🌍 Operations** | Building modern web and mobile solutions to solve real-world problems |
+| **💬 Let's Talk** | Microservices, Cloud Infrastructure (AWS), and Fintech integrations |
+
 ---
 
-## ⚡ About Me
-
-> **I am a Software Engineer dedicated to crafting high-concurrency systems and fluid user experiences.** > My expertise lies at the intersection of **performant backend architecture (Go)** and **reactive mobile design (Flutter)**. I don't just write code; I build digital products that scale with your users.
-
-- 🛠️ **What I'm doing:** Currently architecting a real-time logistics engine for **ParcelFlow**.
-- 🧠 **Design Philosophy:** Prioritizing **clean code**, **DRY principles**, and **sub-millisecond latency**.
-- 🌍 **Tech Nomad:** Operating at the edge of modern web and mobile tech to solve real-world problems.
-- 💬 **Collaboration:** Open to discussing Microservices, Cloud Infrastructure (AWS), and Fintech integrations.
-
----
-
-## 🛠️ My Toolbox
+## 🛠️ Technical Arsenal
 
 ### 📱 Frontend & Mobile
 <p align="left">
@@ -40,6 +44,7 @@
 ### ⚙️ Backend & Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -55,17 +60,7 @@
 
 ---
 
-### Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-   <img src="https://img.shields.io/badge/dart-%23092E20.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronnyopunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnyopunga&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
