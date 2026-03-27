@@ -37,23 +37,7 @@ I bridge the gap between complex backend logic and intuitive frontend design.
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ---
-
-### GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OPunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPunga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OPunga&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=100&section=footer" width="100%"/>
-
-</div>
