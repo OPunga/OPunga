@@ -24,9 +24,6 @@ easy to maintain and built to handle growth.
 
 ---
 
-**Current Project**
-Building ParcelFlow, a real-time logistics system.
-
 **Focus Areas**
 Clean architecture, efficient data handling, and cross-platform performance.
 
@@ -62,7 +59,3 @@ Microservices, cloud infrastructure, and fintech integrations.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=OPunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPunga&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
