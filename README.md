@@ -44,11 +44,11 @@ I bridge the gap between complex backend logic and intuitive frontend design.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronnyopunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnyopunga&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPunga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnyopunga&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OPunga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
