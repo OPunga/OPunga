@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rony Opunga
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=1100&color=F7931E&center=true&vCenter=true&width=460&lines=Full-stack+Developer;Software+Engineer;Flutter+%26+Golang+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=1100&color=F7931E&center=true&vCenter=true&width=460&lines=Full-stack+Developer;Software+Engineer;Mobile+%26+Backend+Specialist" alt="Typing SVG" />
 
 <br />
 
